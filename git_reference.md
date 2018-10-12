@@ -8,3 +8,7 @@
 ## Commit changes
 * run `git add .` to add all the files to *staging* (on commit, all and only files on staging will be saved)
 * run `git commit -m 'thing that you have done'` to create a commit (a snapshot of your code) at this point in time, with a comment explaining what changed
+
+## Check the status
+* run `git log` to check the list of last commits
+* run `git status` to find information about your current branch
